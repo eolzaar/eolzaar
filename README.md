@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif))]
+<img align="center" width="400" alt="coding" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 <h1 align="center">Hi 👋, I'm Etienne</h1>
 <h3 align="center">A computer science student.</h3>
 
