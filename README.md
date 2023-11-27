@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **OCR sudoku S3**
 
-- 🌱 I’m currently learning **networking programming in C**
+- 🌱 I’m currently learning **network programming in C**
 
 <p align="left">
 </p>
