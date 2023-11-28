@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Etienne</h1>
 <h3 align="center">A computer science student.</h3>
-<img width="500" align="right" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
+<img width="400" align="right" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
 - 🔭 I’m currently working on **OCR sudoku S3**
 
