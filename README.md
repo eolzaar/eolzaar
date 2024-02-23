@@ -2,9 +2,9 @@
 <h3 align="center">A computer science student.</h3>
 <img width="400" align="right" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
-- 🔭 I’m currently working on **OCR sudoku S3**
+- 🔭 I’m currently working on **projet S4**
 
-- 🌱 I’m currently learning **network programming in C**
+- 🌱 I’m currently learning **rust**
 
 <p align="left">
 </p>
